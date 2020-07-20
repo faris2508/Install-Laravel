@@ -1,0 +1,10 @@
+Hal yang harus di siapkan terlebih dahulu :
+-XAMMP
+-Composer
+-Internet
+
+1.Buka Command prompt pada kompter
+2.Pastikan composer sudah di install terlebih dahulu,untuk memastikannya ketikan code "composer" pada cmd
+3.Mulai prosses installasi laravel dengan code "composer create-project --prefer-dist laravel/laravel nama_project",tapi sebelum itu pastikan sudah terhubung dengan internet
+4.Setelah prosses install selesai akses projectmu dengan ketikan "cd nama_projectmu",lalu ketikan "php artisan serve" maka nanti akan mengeluarkan link untuk dibuka di browser
+yang isinya adalah tampilan laravel
